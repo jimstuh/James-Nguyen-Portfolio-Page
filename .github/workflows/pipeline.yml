@@ -1,4 +1,3 @@
-lint → validate → deploy
 name: James Nguyen Portfolio Page
 
 on:
