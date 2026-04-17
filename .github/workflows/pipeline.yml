@@ -1,5 +1,5 @@
 lint → validate → deploy
-name: Portfolio Pipeline
+name: James Nguyen Portfolio Page
 
 on:
   push:
